@@ -3,4 +3,4 @@
 
 **Datos MXL** is intended to be an open source platform for the citizens of the Mexicali municipality so they can have free, easy and fast access to the public data.
 
-* [http://datosmxl.com/](Official site)
+* [Official site](http://datosmxl.com/)
