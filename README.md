@@ -1,6 +1,6 @@
 # Datos MXL
-## Open databank started to easyly share public data in Mexicali.
+## Banco de datos abierto para compartir fácilmente información pública en Mexicali.
 
-**Datos MXL** is intended to be an open source platform for the citizens of the Mexicali municipality so they can have free, easy and fast access to the public data.
+**Datos MXL** es una plataforma abierta por ciudadanos del municipio de Mexicali para que puedan tenerlibre, fácil y rápido acceso a la información pública.
 
-* [Official site](http://datosmxl.com/)
+* [Sitio oficial](http://datosmxl.com/)
